@@ -19,3 +19,16 @@ body {
 #minha_foto {
     width: 200px;
 }
+
+#licoes_aprendidas {
+   float: left;
+}
+
+#licoes_a_aprender {
+    float: right;
+    margin-right: 50%;
+}
+
+#rodape {
+    
+}
