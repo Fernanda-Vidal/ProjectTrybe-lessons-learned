@@ -5,8 +5,10 @@ body {
 #cabecalho {
     border: #e56b6f solid;
     background-color: #e56b6f;
-    position: relative;
-    top: 0px;
+    position: static;
+    top: 0;
+    margin: 0;
+    padding: 0;
 }
 
 #titulo {
