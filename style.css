@@ -78,6 +78,7 @@ nav a {
     border: rgb(253, 251, 251) double;
     line-height: 25px;
     padding: 10px;
+    margin-right: 1.5px;
     }
 
 .lado-direito {
@@ -89,6 +90,7 @@ nav a {
     position: absolute;
     text-align: justify;
     padding: 10px;
+    margin-left: 1.5px;
 }
 
 #rodape {
@@ -101,6 +103,7 @@ nav a {
     border: #e56b6f double;
     margin: auto;
     height: 100px;
-    width: 500px;
+    width: 100%;
     text-align: center;
+    margin-top: 3px;
 }
