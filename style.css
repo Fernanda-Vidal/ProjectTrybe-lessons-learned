@@ -8,6 +8,15 @@ h2 {
     font-family: serif;
 }
 
+a {
+    color: rgb(253, 251, 251);
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
 #cabecalho {
     border: #e56b6f solid;
     width: 1366px;
@@ -36,7 +45,7 @@ h2 {
 nav a {
     text-decoration: none;
     color: rgb(253, 251, 251);
-}
+    }
 
 #minha_foto {
     padding: 50px 50px 50px 50x ;
