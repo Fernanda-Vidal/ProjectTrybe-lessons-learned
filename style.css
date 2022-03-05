@@ -96,3 +96,11 @@ nav a {
     padding: 10px;
     text-decoration: underline;
 }
+
+#tabela {
+    border: #e56b6f double;
+    margin: auto;
+    height: 100px;
+    width: 500px;
+    text-align: center;
+}
