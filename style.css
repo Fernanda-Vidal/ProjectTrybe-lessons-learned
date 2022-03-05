@@ -1,6 +1,11 @@
 body {
     background-color: rgb(253, 251, 251);
     font-family: sans-serif;
+    color: #463f3a;
+}
+
+h2 {
+    font-family: serif;
 }
 
 #cabecalho {
@@ -10,6 +15,7 @@ body {
     background-color: #e56b6f;
     position: fixed;
     top: 0;
+    right: 0%;
     margin: 0;
     padding: 0;
 }
@@ -23,7 +29,7 @@ body {
 #navegacao {
     font-size: 15px;
     color: rgb(253, 251, 251);
-    margin-left: 20px;
+    margin-left: 100px;
     word-spacing: 3 px;
     }
 
@@ -33,20 +39,45 @@ nav a {
 }
 
 #minha_foto {
-    width: 200px;
+    padding: 50px 50px 50px 50x ;
+    width: 250px;
+    border: #e56b6f double;
+    margin-top: 110px;
     }
 
 #licoes_aprendidas {
    display: inline-block;
-   width: 200px;
-   line-height: 25px;
+   width: 400px;
+   line-height: 35px;
+   padding-left: 200px;
+   margin: 0px;
 }
 
 #licoes_a_aprender {
     display: inline-block;
-    line-height: 25px;
-}
+    line-height: 35px;
+    margin: 0px;
+    }
 
-h2 {
-    font-family: serif;
+.lado-esquerdo {
+    border: #e56b6f solid;
+    background-color: #e56b6f;
+    color: rgb(253, 251, 251);
+    display: inline-block;
+    width: 47.7%;
+    text-align: justify;
+    border: rgb(253, 251, 251) double;
+    line-height: 25px;
+    padding: 10px;
+    }
+
+.lado-direito {
+    border: #e56b6f double;
+    display: inline-block;
+    width: 47.7%;
+    line-height: 25px;
+    height: 205px;
+    position: absolute;
+    text-align: justify;
+    padding: 10px;
 }
