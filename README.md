@@ -1,4 +1,4 @@
-## Projeto Lessons Learned #VQV rocket
+## Projeto Lessons Learned #VQV :rocket:
 
 Primeiro projeto realizado no curso de Desenvolvimento Web da Trybe. 
 Toda a estrutura do projeto foi fornecida pela Trybe. 
