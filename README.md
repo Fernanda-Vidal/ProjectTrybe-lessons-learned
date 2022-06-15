@@ -5,7 +5,7 @@ Toda a estrutura do projeto foi fornecida pela Trybe.
 
 Requisitos realizados nos arquivos index.html e style.css.
 
-### Entregáveis
+### Entregáveis 💡
 
 1. Adicione uma cor de fundo específica para a página
 
